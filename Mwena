@@ -1,0 +1,10 @@
+Mwena_Agritech/
+│── farm_sales_analysis.py
+│── app.py
+│── ubuntu_image_fetcher.py
+│── iris_explorer.py
+│── cord19_analysis.py
+│── farm_sales.csv (sample data)
+│── requirements.txt
+│── README.md
+│── pitch_deck.md
