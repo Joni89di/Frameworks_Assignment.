@@ -8,8 +8,3 @@ Mwena Agritech is a Python project designed to help farmers analyze their sales 
 - Visualize sales trends, product revenue, and distribution
 - Download and organize agricultural images respectfully (Ubuntu Image Fetcher)
 - Educational demos included for learning purposes
-
-## How to Use
-
-1. Install dependencies:
-
